@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <p align="center">As a full stack developer with over 7 years of experience, I have a proven track record of delivering high-quality, robust and scalable web and mobile applications. I specialize in using a variety of technologies such as JavaScript, Node.js, React, Redux, Angular, Vue, GraphQL and PHP to create powerful, intuitive and user-friendly applications. I am highly experienced in developing and maintaining complex and large-scale web applications, as well as in developing RESTful APIs. Additionally, I have experience in working with web hosting, databases, and version control systems. I am dedicated to ensuring that my work meets the highest standards of quality.<br>Looking forward to hearing from you.<br>Thank you.</p>
@@ -71,12 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" width="52" alt="yii logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" height="40" width="52" alt="zend logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dev3606/dev3606/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/dev3606/count.svg?"  />
